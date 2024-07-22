@@ -1,0 +1,15 @@
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\bin\Debug\net6.0\Store.Service.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\bin\Debug\net6.0\Store.Core.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\bin\Debug\net6.0\Store.Core.pdb
+E:\.NetProjects\Store.Pioneers.Solution\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete

@@ -1,0 +1,12 @@
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\bin\Debug\net6.0\Store.Core.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+E:\.NetProjects\Store.Pioneers.Solution\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
