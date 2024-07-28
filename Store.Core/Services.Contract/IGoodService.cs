@@ -1,4 +1,5 @@
 ﻿using Store.Core.Entities;
+using Store.Core.Specifications.Good_Specs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace Store.Core.Services.Contract
 {
     public interface IGoodService
     {
-        Task<IReadOnlyList<Good>> GetGoodsAsync();
+        Task<IReadOnlyList<Good>> GetGoodsAsync(GoodSpecParams specParams);
 
         Task<Good?> GetGoodByIdAsync(string goodId);
 

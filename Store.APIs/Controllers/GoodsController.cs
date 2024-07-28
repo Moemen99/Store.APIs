@@ -33,9 +33,9 @@ namespace Store.APIs.Controllers
         }
 
         [HttpGet] // /api/Goods
-        public async Task<ActionResult<IReadOnlyList<GoodToReturnDTO>>> GetGoods()
+        public async Task<ActionResult<IReadOnlyList<GoodToReturnDTO>>> GetGoods( [FromQuery] GoodSpecParams specParams)
         {
-            var goods = await _goodService.GetGoodsAsync();
+            var goods = await _goodService.GetGoodsAsync(specParams);
 
             return Ok(_mapper.Map<IReadOnlyList<Good>, IReadOnlyList<GoodToReturnDTO>>(goods));
         }
@@ -56,17 +56,17 @@ namespace Store.APIs.Controllers
 
 
         [HttpGet("stores")] // Get: /api/goods/stores
-        public async Task<ActionResult<IReadOnlyList<StoreInfo>>> GetStores()
+        public async Task<ActionResult<IReadOnlyList<StoreToReturnDTO>>> GetStores()
         {
             var stores = await _goodService.GetStoresAsync();
-            return Ok(stores);
+            return Ok(_mapper.Map<IReadOnlyList<StoreInfo>, IReadOnlyList<StoreToReturnDTO>>(stores));
         }
 
         [HttpGet("transactions")] // Get: /api/goods/transactions
-        public async Task<ActionResult<IReadOnlyList<Transaction>>> GetTransactions()
+        public async Task<ActionResult<IReadOnlyList<TransactionToReturnDTO>>> GetTransactions()
         {
             var transactions = await _goodService.GetTransactionsAsync();
-            return Ok(transactions);
+            return Ok(_mapper.Map<IReadOnlyList<Transaction>, IReadOnlyList<TransactionToReturnDTO>>(transactions));
         }
 
     }

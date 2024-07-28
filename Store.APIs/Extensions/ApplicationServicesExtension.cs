@@ -14,9 +14,11 @@ namespace Store.APIs.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
-            services.AddControllers().AddNewtonsoftJson(options =>
+            services.AddControllers().
+            AddNewtonsoftJson(options =>
             {
                 options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
+                
             });
 
             //services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));

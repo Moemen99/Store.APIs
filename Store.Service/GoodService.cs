@@ -18,9 +18,9 @@ namespace Store.Service
         {
             _unitOfWork = unitOfWork;
         }
-        public async Task<IReadOnlyList<Good>> GetGoodsAsync()
+        public async Task<IReadOnlyList<Good>> GetGoodsAsync(GoodSpecParams specParams)
         {
-            var spec = new GoodWithStoreAndTransactionsSpecifications();
+            var spec = new GoodWithStoreAndTransactionsSpecifications(specParams);
             var goods = await _unitOfWork.AccessRepository<Good>().GetAllWithSpecAsync(spec);
 
             return goods;

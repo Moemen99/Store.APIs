@@ -72,7 +72,7 @@ namespace Store.Repository.Data
         {
             Name = lines[0].Split(";")[0].Trim(),
 
-            StoreFileDate = DateOnly.ParseExact(lines[1].Split(";")[0].Trim(), "d/m/yyyy", CultureInfo.InvariantCulture)
+            StoreFileDate = DateTime.ParseExact(lines[1].Split(";")[0].Trim(), "d/m/yyyy", CultureInfo.InvariantCulture)
         };
 
         private static string CreateStoreCsvOutput(StoreInfo storeInfo)
@@ -132,7 +132,7 @@ namespace Store.Repository.Data
                     {
                         GoodID = transactionValues[0],
                         TransactionID = transactionValues[1],
-                        TransactionDate = DateOnly.ParseExact(transactionValues[2], "dd/MM/yyyy", CultureInfo.InvariantCulture),
+                        TransactionDate = DateTime.ParseExact(transactionValues[2], "dd/MM/yyyy", CultureInfo.InvariantCulture),
                         Amount = int.Parse(transactionValues[3]),
                         Direction = transactionValues[4],
                         Comment = transactionValues[5]

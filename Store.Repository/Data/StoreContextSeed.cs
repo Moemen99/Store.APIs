@@ -74,7 +74,7 @@ namespace Store.Repository.Data
                 var store = new StoreInfo
                 {
                     Name = values[0].Trim(),
-                    StoreFileDate = DateOnly.ParseExact(values[1].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture)
+                    StoreFileDate = DateTime.ParseExact(values[1].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture)
                 };
 
                 stores.Add(store);
@@ -120,7 +120,7 @@ namespace Store.Repository.Data
                 {
                     GoodID = (values[0].Trim()),
                     TransactionID = (values[1].Trim()),
-                    TransactionDate = DateOnly.ParseExact(values[2].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture),
+                    TransactionDate = DateTime.ParseExact(values[2].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture),
                     Amount = int.Parse(values[3].Trim()),
                     Direction = values[4].Trim(),
                     Comment = values.Length > 5 ? values[5].Trim() : null

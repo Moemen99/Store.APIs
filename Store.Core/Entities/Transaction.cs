@@ -10,7 +10,7 @@ namespace Store.Core.Entities
     {
         public string TransactionID { get; set; }
 
-        public DateOnly TransactionDate { get; set; }
+        public DateTime TransactionDate { get; set; }
 
         public int Amount { get; set; }
 

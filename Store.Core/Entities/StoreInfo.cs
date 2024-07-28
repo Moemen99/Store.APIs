@@ -11,7 +11,7 @@ namespace Store.Core.Entities
 
         public string Name { get; set; }
 
-        public DateOnly StoreFileDate { get; set; }
+        public DateTime StoreFileDate { get; set; }
 
         // Navigation property to the collection of Goods
         public virtual ICollection<Good> Goods { get; set; } = new HashSet<Good>();

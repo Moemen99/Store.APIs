@@ -8,7 +8,7 @@ using Store.Repository.Data;
 
 #nullable disable
 
-namespace Store.Repository.Data.Migrations
+namespace Store.Repository.Data.migrations
 {
     [DbContext(typeof(StoreContext))]
     partial class StoreContextModelSnapshot : ModelSnapshot

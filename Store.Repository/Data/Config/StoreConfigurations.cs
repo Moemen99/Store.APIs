@@ -20,12 +20,12 @@ namespace Store.Repository.Data.Config
             builder.HasKey(S => S.Name);
             builder.HasMany(S => S.Goods).WithOne(G => G.Store).HasForeignKey(S => S.StoreName);
 
-            var dateOnlyConverter = new ValueConverter<DateOnly, DateTime>(
-            v => v.ToDateTime(TimeOnly.MinValue),
-             v => DateOnly.FromDateTime(v));
+            //var dateOnlyConverter = new ValueConverter<DateOnly, DateTime>(
+            //v => v.ToDateTime(TimeOnly.MinValue),
+            // v => DateOnly.FromDateTime(v));
 
-            builder.Property(S => S.StoreFileDate)
-                .HasConversion(dateOnlyConverter);
+            //builder.Property(S => S.StoreFileDate)
+            //    .HasConversion(dateOnlyConverter);
         }
     }
 }

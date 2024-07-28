@@ -20,12 +20,12 @@ namespace Store.Repository.Data.Config
             builder.Property(T => T.TransactionID).IsRequired();
             builder.Property(T => T.Comment).IsRequired(false);
 
-            var dateOnlyConverter = new ValueConverter<DateOnly, DateTime>(
-            v => v.ToDateTime(TimeOnly.MinValue),
-             v => DateOnly.FromDateTime(v));
+            //var dateOnlyConverter = new ValueConverter<DateOnly, DateTime>(
+            //v => v.ToDateTime(TimeOnly.MinValue),
+            // v => DateOnly.FromDateTime(v));
 
-            builder.Property(T => T.TransactionDate)
-                .HasConversion(dateOnlyConverter);
+            //builder.Property(T => T.TransactionDate)
+            //    .HasConversion(dateOnlyConverter);
 
 
 

@@ -9,11 +9,11 @@ using Store.Repository.Data;
 
 #nullable disable
 
-namespace Store.Repository.Data.Migrations
+namespace Store.Repository.Data.migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20240719164207_GoodModule")]
-    partial class GoodModule
+    [Migration("20240725114355_GoodsModule")]
+    partial class GoodsModule
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Store.Repository.Data.Migrations
+namespace Store.Repository.Data.migrations
 {
-    public partial class GoodModule : Migration
+    public partial class GoodsModule : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
