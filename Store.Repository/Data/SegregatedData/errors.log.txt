@@ -1,0 +1,5 @@
+Error: Null or empty value found in non-comment field while reading csv file, Line Number: 61, Good ID: 5403, Transaction ID: 86060
+Error parsing transaction at line 75, Good ID: 5404, Transaction ID: 86074: String '�����-14' was not recognized as a valid DateTime.
+Error: Null or empty value found in non-comment field while reading csv file, Line Number: 78, Good ID: 5404, Transaction ID: 86077
+Error: Null or empty value found in non-comment field while reading csv file, Line Number: 87, Good ID: 5402, Transaction ID: 86086
+Error: Null or empty value found in non-comment field while reading csv file, Line Number: 109, Good ID: 5405, Transaction ID: 86108

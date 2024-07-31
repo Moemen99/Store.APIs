@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\project2\\FullStack\\Store.APIs-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C2D96F-ABDC-4BA5-9CB6-06C03A6BBF0C}|Store.Repository\\Store.Repository.csproj|f:\\project2\\fullstack\\store.apis-main\\store.repository\\data\\csvprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C2D96F-ABDC-4BA5-9CB6-06C03A6BBF0C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\data\\csvprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|f:\\project2\\fullstack\\store.apis-main\\store.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|solutionrelative:store.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|f:\\project2\\fullstack\\store.apis-main\\store.core\\specifications\\good specs\\goodwithstoreandtransactionsspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\specifications\\good specs\\goodwithstoreandtransactionsspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|f:\\project2\\fullstack\\store.apis-main\\store.apis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|solutionrelative:store.apis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E675A-8C94-476C-BDE3-EB188647189D}|Store.Service\\Store.Service.csproj|f:\\project2\\fullstack\\store.apis-main\\store.service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E675A-8C94-476C-BDE3-EB188647189D}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|f:\\project2\\fullstack\\store.apis-main\\store.apis\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|solutionrelative:store.apis\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|f:\\project2\\fullstack\\store.apis-main\\store.apis\\dtos\\transactiontoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|solutionrelative:store.apis\\dtos\\transactiontoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|f:\\project2\\fullstack\\store.apis-main\\store.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1D7CBD8-5A68-4463-859A-1E86AFCA6969}|Store.APIs\\Store.APIs.csproj|solutionrelative:store.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|f:\\project2\\fullstack\\store.apis-main\\store.core\\specifications\\good specs\\goodspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\specifications\\good specs\\goodspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|f:\\project2\\fullstack\\store.apis-main\\store.core\\services.contract\\igoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14600F2-3D5E-4190-87E6-DFDBDDE9E0CD}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\services.contract\\igoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvProcessor.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Repository\\Data\\CsvProcessor.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Data\\CsvProcessor.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Repository\\Data\\CsvProcessor.cs",
+              "RelativeToolTip": "Store.Repository\\Data\\CsvProcessor.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwIAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:52:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Store.APIs\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "Store.APIs\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoodService.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Service\\GoodService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\GoodService.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Service\\GoodService.cs",
+              "RelativeToolTip": "Store.Service\\GoodService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Store.APIs\\Program.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Program.cs",
+              "RelativeToolTip": "Store.APIs\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwC4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoodsController.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Controllers\\GoodsController.cs",
+              "RelativeDocumentMoniker": "Store.APIs\\Controllers\\GoodsController.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\Controllers\\GoodsController.cs",
+              "RelativeToolTip": "Store.APIs\\Controllers\\GoodsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionToReturnDTO.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\DTOs\\TransactionToReturnDTO.cs",
+              "RelativeDocumentMoniker": "Store.APIs\\DTOs\\TransactionToReturnDTO.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\DTOs\\TransactionToReturnDTO.cs",
+              "RelativeToolTip": "Store.APIs\\DTOs\\TransactionToReturnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodWithStoreAndTransactionsSpecifications.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Specifications\\Good Specs\\GoodWithStoreAndTransactionsSpecifications.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Specifications\\Good Specs\\GoodWithStoreAndTransactionsSpecifications.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Specifications\\Good Specs\\GoodWithStoreAndTransactionsSpecifications.cs",
+              "RelativeToolTip": "Store.Core\\Specifications\\Good Specs\\GoodWithStoreAndTransactionsSpecifications.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoodSpecParams.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Specifications\\Good Specs\\GoodSpecParams.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Specifications\\Good Specs\\GoodSpecParams.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Specifications\\Good Specs\\GoodSpecParams.cs",
+              "RelativeToolTip": "Store.Core\\Specifications\\Good Specs\\GoodSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.APIs\\appsettings.json",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.APIs\\appsettings.json",
+              "RelativeToolTip": "Store.APIs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T06:09:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGoodService.cs",
+              "DocumentMoniker": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Services.Contract\\IGoodService.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Services.Contract\\IGoodService.cs",
+              "ToolTip": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Services.Contract\\IGoodService.cs",
+              "RelativeToolTip": "Store.Core\\Services.Contract\\IGoodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:09:01.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

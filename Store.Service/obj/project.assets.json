@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CsvHelper/33.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Store.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CsvHelper": "33.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Store.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvHelper/33.0.1": {
+      "sha512": "fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "type": "package",
+      "path": "csvhelper/33.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.33.0.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net462/CsvHelper.dll",
+        "lib/net462/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net48/CsvHelper.dll",
+        "lib/net48/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/net7.0/CsvHelper.dll",
+        "lib/net7.0/CsvHelper.xml",
+        "lib/net8.0/CsvHelper.dll",
+        "lib/net8.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "Store.Core/1.0.0": {
+      "type": "project",
+      "path": "../Store.Core/Store.Core.csproj",
+      "msbuildProject": "../Store.Core/Store.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Store.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mano_\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Service\\Store.Service.csproj",
+      "projectName": "Store.Service",
+      "projectPath": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Service\\Store.Service.csproj",
+      "packagesPath": "C:\\Users\\mano_\\.nuget\\packages\\",
+      "outputPath": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mano_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Store.Core.csproj": {
+              "projectPath": "F:\\project2\\FullStack\\Store.APIs-main\\Store.Core\\Store.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
